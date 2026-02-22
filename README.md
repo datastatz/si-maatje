@@ -6,14 +6,14 @@
 
 ### Phase 1: Setup and core language
 
-1. **1 Foreword** — 1.3 Platform and Compiler, 1.4 Homepage. Get a compiler and know where the book lives.
-2. **2.1 Background** — Comments, Separators, Expressions, Statements, Booleans, Blocks. How C code is structured.
-3. **2.3 Type Specifiers** + **2.4 Constant Types** — `int`, `float`, `char`, literals.
-4. **2.2 Operators** — 2.2.1 Arithmetic, 2.2.2 Increment/Decrement, 2.2.3 Comparison, 2.2.8 Assignment, 2.2.9 sizeof, 2.2.10 Type Casts. Enough to write and read expressions.
-5. **2.5 Composite Types** — 2.5.1 struct, 2.5.3 enum (union later). Basic data structures.
-6. **2.6 Initializers** — How to initialize variables and structs.
-7. **2.10–2.18** — if, for, while, do-while, switch, break, continue, return. Control flow and loops.
-8. **2.20 Functions** — especially 2.20.1 main(). Writing and calling functions.
+1. **1 Foreword** — 1.3 Platform and Compiler, 1.4 Homepage. Get a compiler and know where the book lives. ✅
+2. **2.1 Background** — Comments, Separators, Expressions, Statements, Booleans, Blocks. How C code is structured. ✅
+3. **2.3 Type Specifiers** + **2.4 Constant Types** — `int`, `float`, `char`, literals. ✅
+4. **2.2 Operators** — 2.2.1 Arithmetic, 2.2.2 Increment/Decrement, 2.2.3 Comparison, 2.2.8 Assignment, 2.2.9 sizeof, 2.2.10 Type Casts. Enough to write and read expressions. ✅
+5. **2.5 Composite Types** — 2.5.1 struct, 2.5.3 enum (union later). Basic data structures. ✅
+6. **2.6 Initializers** — How to initialize variables and structs. ✅
+7. **2.10–2.18** — if, for, while, do-while, switch, break, continue, return. Control flow and loops.  **(goto statement is very cool)** ✅
+8. **2.20 Functions** — especially 2.20.1 main(). Writing and calling functions. ✅
 
 ### Phase 2: Essential standard library
 
